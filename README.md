@@ -3,7 +3,7 @@ My 1:1 aspect ratio 720p portable system bezels for Retroarch. Currently a WIP w
 
 Originally created for the RGB30.
 
-![Screenshot](/screenshots/GBP_int_offset.png)
+![Screenshot](/screenshots/overview.png)
 
 Open game and then go to the [Quick Menu](https://github.com/OnionUI/Onion/wiki/Global-Shortcuts) for Retroarch (Select + X buttons) > On-Screen Overlay > Overlay Preset > Choose cfg file. Save the override on the content folder or per game basis.
 
