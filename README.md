@@ -25,21 +25,22 @@ Settings ->
   - Gameboy Pocket - GBP_int_offset.cfg
     - X position: 40 
     - Y Position: 41	
-    - Video Filter: Dot_Matrix_4x_GB_Pocket_Grid
+    - Video Filter: Dot_Matrix_4x_GB_Pocket_Grid OR LCD3X shader
     - Core Options > Internal Palette > GB - Pocket
 		
   - Gameboy Light - GBL_int_offset.cfg
     - X position: 40
     - Y Position: 41
-    - Video Filter: Dot_Matrix_4x_GB_Light_Grid
+    - Video Filter: Dot_Matrix_4x_GB_Light_Grid OR LCD3X shader
     - Core Options > Internal Palette > GB - Light
 
   - Gameboy Color - GBC_int_offset.cfg
     - X position: 40
     - Y Position: 41
-		
+    - LCD3X shader
+  
   - Gameboy DMG - GB_DMG_int_offset.cfg
     - X position: 40
     - Y Position: 60
-    - Video Filter: Dot_Matrix_4x_GB_DMG_Grid
+    - Video Filter: Dot_Matrix_4x_GB_DMG_Grid OR LCD3X shader
     - Core Options > Internal Palette > GB - DMG
