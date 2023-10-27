@@ -1,7 +1,7 @@
 # drkhrse 1:1 RGB30 Bezels
 My 1:1 aspect ratio 720p portable system bezels for Retroarch. Currently a WIP with more systems abd setup instructions added later.
 
-Originally created for the RGB30.
+Originally created for the Powkiddy RGB30.
 
 ![Screenshot](/screenshots/overview.png)
 
