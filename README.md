@@ -8,7 +8,7 @@ Open game and then go to the [Quick Menu](https://github.com/OnionUI/Onion/wiki/
 For offset bezels
 Settings->
 - Video->
-	- Scaling->
+  - Scaling->
 	- Integer Scale: OFF
 	- Aspect Ratio: Custom
 	- Width :640
