@@ -25,7 +25,6 @@ Settings ->
   - Gameboy Light - GBL_int_offset.cfg
     - X position: 40
     - Y Position: 41
-			
     - Video Filter: Dot_Matrix_4x_GB_Light_Grid
     - Core Options > Internal Palette > GB - Light
 
@@ -36,6 +35,5 @@ Settings ->
   - Gameboy DMG - GB_DMG_int_offset.cfg
     - X position: 40
     - Y Position: 60
-   
     - Video Filter: Dot_Matrix_4x_GB_DMG_Grid
     - Core Options > Internal Palette > GB - DMG
