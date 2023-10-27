@@ -7,7 +7,13 @@ Originally created for the Powkiddy RGB30.
 
 Open game and then go to the [Quick Menu](https://github.com/OnionUI/Onion/wiki/Global-Shortcuts) for Retroarch (Select + X buttons) > On-Screen Overlay > Overlay Preset > Choose cfg file. Save the override on the content folder or per game basis.
 
-For offset bezels
+## For interger scaling bezels
+Settings ->
+- Video ->
+  - Scaling ->
+    - Integer Scale: ON
+
+## For integer scaling with offset bezels
 Settings ->
 - Video ->
   - Scaling ->
