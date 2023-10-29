@@ -5,7 +5,7 @@ Originally created for the Powkiddy RGB30.
 
 ![Screenshot](/screenshots/overview.png)
 
-Open game and then go to the [Quick Menu](https://github.com/OnionUI/Onion/wiki/Global-Shortcuts) for Retroarch (Select + X buttons) > On-Screen Overlay > Overlay Preset > Choose cfg file. Save the override on the content folder or per game basis.
+Open game and then go to the [Quick Menu](https://github.com/OnionUI/Onion/wiki/Global-Shortcuts) for Retroarch (Select + X buttons) > On-Screen Overlay > Overlay Preset > Choose cfg file. Save the override on the content folder or per game basis. For more info on setting up the RGB30, I highly recommend the [Retro Game Corps Starter Guide](https://retrogamecorps.com/2023/10/27/powkiddy-rgb30-starter-guide/#Bezels).
 
 ## For interger scaling bezels
 Settings ->
