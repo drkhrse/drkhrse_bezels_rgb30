@@ -19,28 +19,45 @@ Settings ->
   - Scaling ->
     - Integer Scale: OFF
     - Aspect Ratio: Custom
-    - Width: 640
-    - Height: 576
+    - Width: 640 (4x)
+    - Height: 576 (4x)
 
-  - Gameboy Pocket - GBP_int_offset.cfg
+  - Gameboy Pocket - GBP_int_offset_x40_y41.cfg
     - X position: 40 
     - Y Position: 41	
     - Video Filter: Dot_Matrix_4x_GB_Pocket_Grid OR LCD3X shader
     - Core Options > Internal Palette > GB - Pocket
 		
-  - Gameboy Light - GBL_int_offset.cfg
+  - Gameboy Light - GBL_int_offset_x40_y41.cfg
     - X position: 40
     - Y Position: 41
     - Video Filter: Dot_Matrix_4x_GB_Light_Grid OR LCD3X shader
     - Core Options > Internal Palette > GB - Light
 
-  - Gameboy Color - GBC_int_offset.cfg
+  - Gameboy Color - GBC_int_offset_x40_y41.cfg
     - X position: 40
     - Y Position: 41
     - LCD3X shader
   
-  - Gameboy DMG - GB_DMG_int_offset.cfg
+  - Gameboy DMG - GB_DMG_int_offset_x40_y60.cfg
     - X position: 40
     - Y Position: 60
     - Video Filter: Dot_Matrix_4x_GB_DMG_Grid OR LCD3X shader
     - Core Options > Internal Palette > GB - DMG
+
+## Auto-rotation on WonderSwan bezels
+Quick Menu (while running WonderSwan) ->
+- Overrides ->
+  - Save Core Overrides
+  - Load Core Override ->
+    - Write down path to override folder scrolling at the top.
+
+Settings ->
+- Input ->
+  - RetroPad Binds ->
+    - Port 1 Controls ->
+    - Rotate screen + active D-Pad: Write down values (eg: "8", "rshift" on ArkOS)
+
+Edit "Beetle WonderSwan.cfg" override and add the following, replacing "8" and "rshift" with inputs found above if needed:
+  - input_overlay_next = "rshift"
+  - input_overlay_next_btn = "8"
